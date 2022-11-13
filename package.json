@@ -1,0 +1,22 @@
+{
+  "name": "learning-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikayil34/Sifirdan-Her-Yonuyle-React-ve-Redux-2022.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikayil34/Sifirdan-Her-Yonuyle-React-ve-Redux-2022/issues"
+  },
+  "homepage": "https://github.com/mikayil34/Sifirdan-Her-Yonuyle-React-ve-Redux-2022#readme",
+  "dependencies": {
+    "slugify": "^1.6.5"
+  }
+}
