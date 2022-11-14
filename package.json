@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "start": "node index"
   },
@@ -17,6 +18,7 @@
   },
   "homepage": "https://github.com/mikayil34/Sifirdan-Her-Yonuyle-React-ve-Redux-2022#readme",
   "dependencies": {
+    "node-fetch": "^3.3.0",
     "slugify": "^1.6.5"
   }
 }
