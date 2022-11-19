@@ -1,0 +1,1 @@
+npx kurmak için yan global add npx
