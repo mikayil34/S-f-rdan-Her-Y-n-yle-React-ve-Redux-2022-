@@ -1,1 +1,5 @@
 npx kurmak için yan global add npx
+
+npx create-react-app hello-react
+cd hello-react
+npm start
